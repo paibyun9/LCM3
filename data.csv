@@ -1,0 +1,136 @@
+﻿No,Site Name,Structure Type,Country,Nearest Town,Latitude,Longitude,UTM Zone,UTM Easting,UTM Northing ,Start_Year,Used_in_analysis,Source_Type,Language,Reference
+1,Buzovgrad Megalith,Dolmen, Bulgaria,Kazanlak,42.570363,25.376873,35T,366782,4714383,-6400,Yes,SC,EN,
+2,The Brothers Megalith,Menhir, Bulgaria,Brezovo,42.39114,25.10435,35T,343969,4694946,-6400,Yes,SC,EN,
+3,Staro Zhelezare,Stone circle, Bulgaria,Staro Zhelezare ,42.436861,24.658444,35T,307405,4700939,-6400,Yes,SC,EN,
+4,Perperikon,Neolithic site, Bulgaria,Kurdzhali ,41.712649,25.461502,35T,372012,4619016,-6400,Yes,SC,EN/BG,Yes (No. 4)
+5,Dolni Glavanak,Stone circle, Bulgaria,Dolni Glavanak,41.681889,25.812806,35T,401190,4615139,-6400,Yes,SC,EN,
+6,Zhelezino Dolmen,Dolmen, Bulgaria, Krumovgrad ,41.4784,25.9518,35T,412485,4592396,-6400,Yes,SC,EN,
+7,Long Stone of Číbuz,Menhir, Czech,Smiřice ,50.286084,15.894881,33U,563752,5570823,-5600,Yes,SC,EN,
+8,Kamenný kruh Říčky ,Stone circle, Czech,Rokytnice,50.207931,16.441746,33U,602877,5562744,-5600,Yes,SC,EN,
+9, Lindholm Hoje,Stone circle, Denmark,Aalborg,57.077182,9.912187,32V,555298,6326347,-4000,Yes,SC,EN,
+10,Stara Zagora Neolithic dwellings,Neolithic site, Bulgaria,Stara Zagora ,42.4259,25.61331,35T,385926,4697997,-6400,Yes,PR,EN,Yes (No. 10)
+11,Teglgård Runddysse,Dolmen, Denmark,Ålborg ,56.853515,9.870808,32V,553107,6301418,-4000,Yes,SC,EN,
+12,Rebildhede Hellekiste ,Neolithic site, Denmark,Aalborg,56.832083,9.86115,32V,552548,6299025,-4000,Yes,ER,EN,Yes (No. 12)
+13,Camp dit Castellaras de la Malle,Neolithic site, France,Grasse,43.702027,6.883256,32T,329443,4840956,-5500,Yes,SC,EN/FR,Yes (No. 13)
+14,Dolmen de Verdoline,Dolmen, France, Grasse,43.679348,6.852949,32T,326936,4838500,-5500,Yes,SC,EN,
+15,Crouzes Menhirs,Menhir, France,Saint-Tropez,43.57888,6.72334,32T,316182,4827620,-5500,Yes,SC,EN,
+16,Dolmen de Panassac ,Dolmen, France,Périgueux,45.27898,0.96404,31T,340316,5015959,-5200,Yes,SC,EN,
+17,La Monerie menhir,Menhir, France,Paussac-Saint-Vivien,45.32789,0.54356,31T,307503,5022311,-5200,Yes,SC,EN,
+18,Peyrebrune (Seyssac),Neolithic site, France,Périgueux,45.1952,0.458,31T,300333,5007779,-5200,Yes,ER,EN/FR,Yes (No. 18)
+19,La Peyre de Fonpeyre,Stone circle, France,Bergerac ,44.85121,0.48376,31T,301169,4969502,-5200,Yes,SC,EN,
+20,Menhir de Kerlivio,Menhir, France,Lorient,47.955217,-3.387717,30T,471053,5311396,-5200,Yes,SC,EN,
+21,Allée Couverte de Botquenven,Neolithic site, France,Lorient ,48.039819,-3.460427,30U,465681,5320828,-5200,Yes,ER,EN/FR,Yes (No. 21)
+22,Dolmen de Guidfosse,Dolmen, France,Carhaix-Plouger,48.133924,-3.377907,30U ,471883,5331255,-5200,Yes,SC,EN,
+23,Dhekia Pathar,Dolmen, India,Hazaribagh,24.08976,85.842336,45R,382329,2664650,-6570,No,SC,EN,
+24,Punkri Burwadih,Neolithic site, India,Hazaribagh,23.872222,85.243056,44N,302874,2174107,-6570,No,SC,EN,
+25,Chaibasa,Menhir, India,Chaibasa ,22.57,85.82,44N,297000,2412000,-6570,No,SC,EN,
+26,Chianca di Santo Stefano Trilithon,Neolithic site, Italy, Puglia,40.206425,18.345,34T,274040,4454050,-6400,Yes,SC,EN/IT,Yes (No. 26)
+27,Staurotomea Standing stone,Menhir, Italy, Puglia,40.20402,18.349506,34T,274416,4453771,-6400,Yes,SC,EN,
+28,Placa Dolmen,Dolmen, Italy, Puglia,40.258526,18.309348,34T,271181,4459925,-6400,Yes,SC,EN,
+29,Corte Noa Dolmen,Dolmen, Italy,Laconi ,39.892,9.0208,32S,501778,4415771,-5500,Yes,SC,EN,
+30,Curru Tundu,Menhir, Italy,Nuoro,39.875294,8.900942,32S,491529,4413921,-5500,Yes,SC,EN,
+31,Is Cirquittus Circoli Megalitici ,Stone circle, Italy,Nuoro ,39.85639,8.95944,32S,496531,4411819,-5500,Yes,SC,EN,
+32,Mesadda Domus de Janas,Neolithic site, Italy,Oristano,39.913933,8.894699,32S,491000,4418210,-5500,Yes,PR,EN/IT,Yes (No. 32)
+33,Oppagne Menhirs,Menhir,Belgium,Barvaux,50.32158,5.5133,31U,678906,5577407,-4000,Yes,SC,EN,
+34,Oppagne Dolmen,Dolmen,Belgium,Barvaux,50.32165,5.51303,31U,678887,5577414,-4000,Yes,SC,EN,
+35,Alignement de Danthine,Neolithic site,Belgium,Barvaux,50.32597,5.51696,31U,679150,5577904,-4000,Yes,SC,EN/FR,Yes (No. 35)
+36,Forrières,Stone circle,Belgium,Rochefort ,50.1304,5.2671,31U,662029,5555590,-4000,Yes,SC,EN,
+37,Chuchul Kamak,Menhir,Bulgaria,Harmanli  ,42.010816,25.997306,35T,416973,4651463,-6400,Yes,SC,EN,
+38,Nabta Playa,Stone circle,Egypt, Wadi Halfa,22.5058,30.7303,36Q,266516,2490584,-6400,No,SC,EN,
+39,Down Barn,Menhir,England,Wiltshire ,51.424274,-1.814994,30U,582389,5697674,-4000,Yes,SC,EN,
+40,Avebury Down Stone Circle,Stone circle,England,Marlborough,51.440311,-1.836942,30U,580835,5699433,-4000,Yes,SC,EN,
+41,Avebury Down Bell Barrow ,Neolithic site,England,Marlborough,51.437352,-1.842563,30U,580450,5699097,-4000,Yes,ER/SC,EN,Yes (No. 41)
+42,Süntelstein,Menhir,Germany,Belm,52.358167,8.1495,32U,442080,5801216,-4100,Yes,SC,EN,
+43,Teufels Teigtrog ,Neolithic site,Germany,Osnabrück,52.35024,8.15962,32U,442759,5800326,-4100,Yes,SC/ER,EN/DE,Yes (No. 43)
+44,Slopsteine,Dolmen,Germany,Belm,52.31198,8.20118,32U,445543,5796039,-4100,Yes,SC,EN,
+45,Ammes Livathous,Stone circle,Greece,Argostoli ,38.103252,20.511541,34S,457175,4217384,-6400,Yes,SC,EN,
+46, Sesklo,Neolithic site,Greece,Vólos,39.355857,22.842533,34S,658751,4357887,-6400,Yes,SC,EN,
+47, Menhir of Naxos ,Menhir,Greece, Potamia ,37.066885,25.460101,35S,363101,4103401,-6400,Yes,SC,EN,
+48,Dolmen Roussa,Dolmen,Greece,Komotini ,41.299357,26.024081,35T,418296,4572449,-6400,Yes,SC,EN,
+49,Balix standing stone,Menhir,Ireland,Co. Tyrone ,54.802786,-7.279859,29U,610568,6074202,-4000,Yes,SC,EN,
+50,Balix Lower,Neolithic site,Ireland,Co. Tyrone ,54.796896,-7.242027,29U,613016,6073608,-4000,Yes,SC/ER,EN,Yes (No. 50)
+51,Castledamph S,Stone circle,Ireland,Co. Tyrone ,54.776794,-7.189567,29N,661120,5357794,-4000,Yes,SC,EN,
+52,Barnes Gap mound and cist,Dolmen,Ireland,Strabane,54.742318,-7.140103,29U,619729,6067704,-4000,Yes,SC,EN,
+53,Gamla Dolmen field,Dolmen,Israel,Katserin ,32.9063,35.7493,36S,757140,3644253,-6600,No,SC,EN,
+54, NEG II Prehistoric Village,Neolithic site,Israel,Tiberias,32.784355,35.663329,36S,749438,3630521,-6600,No,SC/ER,EN/HE,Yes (No. 54)
+55,The Gilgal associated  with Joshua,Stone circle,Israel,Antipatris,32.155833,34.952778,36S ,684153,3559379,-6400,No,SC,EN,
+56,Ta’ Ċenċ Dolmen III,Dolmen,Malta,Xewkija,36.020129,14.26159,33S,433465,3986433,-6100,Yes,SC,EN,
+57,Ta' Cenc Gallery Grave,Neolithic site,Malta,Valletta,36.0219,14.25578,33S,432943,3986634,-6100,Yes,SC/ER,EN/MT,Yes (No. 57)
+58,L-Imrejzbiet,Stone circle,Malta,Victoria,36.029672,14.284565,33S,435543,3987476,-6100,Yes,SC,EN,
+59,Il-Hagra L-Wieqfa,Menhir,Malta, Victoria  ,36.0379,14.3088,33S,437733,3988373,-6100,Yes,SC,EN,
+60,Arthur's Stone,Dolmen,England,Hay-on-Wye,52.082263,-2.995375,30U,500317,5770188,-4000,Yes,SC,EN,
+61,Steinkreis Schmölln,Stone circle,Germany,Prenzlau,53.297712,14.099044,33U,439954,5905768,-4100,Yes,SC,EN,
+62,Anta de Carcavelos,Dolmen,Portugal,Carcavelos,38.885774,-9.216627,29S,481212,4304123,-5300,Yes,SC,EN,
+63,Sintra Menhir,Menhir,Portugal,Sintra ,38.8,-9.38,29S,467003,4294651,-5300,Yes,SC,EN,
+64,Anta do Monte Abraão,Neolithic site,Portugal,Queluz ,38.7682,-9.26473,29S,477002,4291087,-5300,Yes,SC/TH,EN/PT,Yes (No. 64)
+65,Cromeleque de Cuncos,Stone circle,Portugal,Montemor-O-Novo,38.64509,-8.291068,29S,561694,4277631,-5300,Yes,SC,EN,
+66,Casa da Moura Dolmen ,Dolmen,Portugal,Entrimo,41.990704,-8.118822,29T,572988,4649120,-5200,Yes,SC,EN,
+67,Mamoa do Batateiro,Neolithic site,Portugal,Melgaço,41.991498,-8.268727,29T,560571,4649091,-5200,Yes,SC/ER/TH,EN/PT,Yes (No. 67)
+68,Allanfearn,Dolmen,Scotland,Inverness ,57.500349,-4.144291,30V,431424,6373662,-4000,Yes,SC,EN,
+69,Daviot Ring Cairn,Stone circle,Scotland,Highlands,57.442314,-4.122562,30V,432620,6367180,-4000,Yes,SC,EN,
+70,Beechwood Farm Site,Neolithic site,Scotland,Inverness ,57.478,-4.185,30V,428941,6371216,-4000,Yes,SC,EN,Yes (No. 70)
+71,Clach-na-Crudainn,Menhir,Scotland, Inverness ,57.477476,-4.225017,30V,426541,6371201,-4000,Yes,SC,EN,
+72,Dolmen de Can Planes,Dolmen,Spain,La Roca del Vallès ,41.586064,2.340559,31T,445034,4604029,-5500,Yes,SC,EN,
+73,Cromlec de Pins Rosers,Stone circle,Spain,Cataluña ,41.620875,2.362773,31T,446914,4607880,-5500,Yes,SC,EN,
+74,Menhir de Can Freginals,Menhir,Spain,Cataluña,41.63207,2.458562,31T ,454902,4609068,-5500,Yes,SC,EN,
+75,Pedra Foradada,Neolithic site,Spain,Granollers,41.56357,2.317888,31T,443125,4601546,-5500,Yes,SC,EN/ES,Yes (No. 75)
+76,Menhir de La Lancha,Menhir,Spain,Vilamartín ,36.792641,-5.643736,30S,264110,4075131,-5500,Yes,SC,EN,
+77,Alberite Dolmen,Neolithic site,Spain,Cadiz,36.816122,-5.636689,30S,264810,4077719,-5500,Yes,SC/ER,EN/ES,Yes (No. 77)
+78,Dolmen del Bujeo,Dolmen,Spain,Andalucía ,36.136664,-5.699708,30S,257075,4002483,-5500,Yes,SC,EN,
+79,El Collado,Dolmen,Spain,Caceres,40.232,-6.225,29T,736085,4457202,-5500,Yes,SC,EN,
+80,Buenamadre,Menhir,Spain,Salamanca,40.867035,-6.222674,29T,734059,4527710,-5500,Yes,SC,EN,
+81,Villavieja,Neolithic site,Spain,Salamanca ,40.885869,-6.472485,29T,712944,4529163,-5300,Yes,SC/ER,EN/ES,Yes (No. 81)
+82,Pedrafita en Aquis Querquernis,Menhir,Spain,Galicia,41.971651,-7.985002,29T,584097,4647127,-5200,Yes,SC,EN,
+83,Errolan Dolmen,Dolmen,Spain,Baztan,43.124832,-1.444873,30T,626500,4775851,-5200,Yes,SC,EN,
+84,Urkitze Menhir,Menhir,Spain,Baztan,43.109846,-1.506345,30T,621529,4774096,-5200,Yes,SC,EN,
+85,Tranpako Lepoa Dolmen 1,Neolithic site,Spain,Baztan,43.102125,-1.493039,30T,622627,4773258,-5200,Yes,SC/ER,EN/ES,Yes (No. 85)
+86,Errolan Cromlech,Stone circle,Spain,Baztan,43.124957,-1.444953,30T,626493,4775865,-5200,Yes,SC,EN,
+87,El Kadada Neolithic Tomb,Dolmen,Sudan,Shendi ,16.69139,33.43417,36Q,546290,1845466,-6400,No,SC,EN,
+88,Stenstugan (Stone Cottage) ,Dolmen,Sweden,Varberg,57.131709,12.353167,33V,339802,6335156,-4000,Yes,SC,EN,
+89,Slummesten ,Menhir,Sweden,Varberg,57.123611,12.391667,33V,342097,6334165,-4000,Yes,SC,EN,
+90,Veddige,Neolithic site,Sweden,Veddige ,57.2553,12.2994,33V,337094,6349035,-4000,Yes,SC,EN/SV,Yes (No. 90)
+91,Munkakyrkan,Stone circle,Sweden,Falkenberg,56.913406,12.673526,33V,358359,6310157,-4000,Yes,SC,EN,
+92,Rujm el-Hiri ,Stone circle,Syria, Golan Heights area ,32.908669,35.800976 ,36S,761968,3644643,-6600,No,SC,EN,
+93,Dolmen North Lalapasa,Dolmen,Turkey,Lalapasa ,41.851688,26.747417,35T,479033,4633340,-6400,Yes,SC,EN,
+94,Hacidanisment Menhir,Menhir,Turkey,Lalapasa,41.8948,26.802822,35T,483643,4638115,-6400,Yes,SC,EN,
+95, Kirikkoy Stones ,Stone circle,Turkey,Edirne,41.808606,26.638665,35T,469986,4628589,-6400,Yes,SC,EN,
+96,Asagipinar,Neolithic site,Turkey,Kırklareli ,41.721356,27.225966,35T,518795,4618864,-6400,Yes,SC/ER,EN/TR,Yes (No. 96)
+97, Dolmens Inkerman 2nd Cardon ,Dolmen,Ukraine,Sevastopol ,44.616901,33.690607,36T,554792,4940626,-5000,Yes,SC,EN,
+98,Cromlech Alushta,Stone circle,Ukraine,Alushta ,44.670441,34.380301,36T,609411,4947268,-5000,Yes,SC,EN,
+99,Skelia Menhirs ,Menhir,Ukraine,Rodnykivske,44.46534,33.84878,36T,567516,4923910,-5000,Yes,SC,EN,
+100,Dolmens Of Oreanda,Neolithic site,Ukraine,Yalta ,44.458031,34.132489,36T,590095,4923371,-5000,Yes,SC,EN/UA/RU,Yes (No. 100)
+101,Nabta Playa site,Neolithic site,Egypt, Wadi Halfa,22.51,30.73,36N,406600,2464100,-6400,No,PR,EN,Yes (No. 101)
+102,Songjeong-ri Ipseok ,Menhir,South Korea,Busan,35.32,129.26,52S,427000,3721000,-4400,No,SC,EN,
+103,Dumun-ri in Gadeokdo,Dolmen,South Korea,Busan,35.02,128.74,52S,426000,3697000,-4400,No,SC,EN,
+104,Gadeokdo Site,Neolithic site,South Korea,Busan,35.02,128.75,52S,426500,3697000,-4400,No,PR/ER,EN/KR,Yes (No. 104)
+105,Østerskoven Bautasten,Menhir, Denmark,Nykøbing Falster,54.858832,12.122506,33U,315311,6082876,-4000,Yes,SC,EN,
+106,Dobřeň site,Neolithic site, Czech,Kutná Hora,49.9489,15.2681,33U,521345,5532992,-5600,Yes,SC/ER,EN/CS,Yes (No. 106)
+107,Dolmen of Kbíl ,Dolmen, Czech, Strakonice,49.21947,13.843704,33U,415799,5452497,-5600,Yes,SC,EN,
+"Note: In the Source_Type column, short codes are used: PR = Peer-reviewed, ER = Excavation Report, MC = Museum Catalogue, TH = Thesis, SC = Secondary compilation.",,,,,,,,,,,,,,
+,"No.  4.  Inhabited from at least early–mid 5th millennium BCE (Late Neolithic/Copper Age), based on ceramic finds and structural traces. Later reused through Thracian, Roman, Byzantine periods. ",,,,,,,,,,,,,
+,"No. 10. Excavated and studied extensively; see Nikolov, V. (2021). Life and death of a Neolithic house. Studia Praehistorica 15, 1–72.",,,,,,,,,,,,,
+,"No. 12. Brøndsted, J. (1929). Danmarks Oldtid.Riismøller, P. (1950). Nationalmuseet Kopenhagen, Danske Afd. Kulturarvstyrelsen site record (ID: 120310-174).",,,,,,,,,,,,,
+,"No. 13. Documented via secondary compilations (Megalithic Portal). Likely part of the wider Grasse/Saint-Cézaire megalithic landscape. Contextual references: Courtin (1962, 1974); Bouville (1971, Doctoral Thesis).",,,,,,,,,,,,,
+,"No. 18. Excavated in 1874 by the Société archéologique du Périgord. Finds included pottery fragments, stone tools (axes, scrapers, arrowheads), wooden remains, charcoal, and unburnt human burials.",,,,,,,,,,,,,
+,"No. 21. Neolithic gallery grave. Excavated late 19th–early 20th c.; finds included human remains, ceramic sherds, polished axes. Reference: T4T35 – Mégalithes du Morbihan, p.192 (site ID ALBOTQ).",,,,,,,,,,,,,
+,No. 26. Documented in secondary compilations (Megalithic Portal). Local archaeological inventories in Italian also reference the site. ,,,,,,,,,,,,,
+,"No. 32. Robin, G. (2016). Art and death in Late Neolithic Sardinia: the role of carvings and paintings in domus de janas rock-cut tombs. Cambridge Archaeological Journal 26, 429–469.",,,,,,,,,,,,,
+,No. 35. Documented via secondary compilations (Megalithic Portal). French-language references include regional heritage inventories. ,,,,,,,,,,,,,
+,No. 41. Documented via secondary compilations (Megalithic Portal). Excavation reports exist in English Heritage archives. ,,,,,,,,,,,,,
+,No. 43. Documented via secondary compilations (Megalithic Portal). German-language excavation reports and inventories exist. ,,,,,,,,,,,,,
+,No. 50. Documented via secondary compilations (Megalithic Portal). Official records exist in NISMR/Archaeological Survey of Ireland. ,,,,,,,,,,,,,
+,No. 54. Early–Middle Neolithic (~6600 BCE). Documented via secondary compilations (Megalithic Portal). Excavation reports and research exist (Hebrew/English). ,,,,,,,,,,,,,
+,No. 57.  Early Neolithic (~6100 BP). Documented via secondary compilations (Megalithic Portal). Excavation reports and Heritage Malta documentation exist. ,,,,,,,,,,,,,
+,No. 64. Documented via secondary compilations (Megalithic Portal). Excavation and research by Gonçalves (1992) and Boaventura (2009). ,,,,,,,,,,,,,
+,"No. 67. Documented via secondary compilations (Megalithic Portal). Excavation data referenced in Portuguese archaeological surveys (e.g., Minho megalithic corpus). ",,,,,,,,,,,,,
+,"No. 70. Documented in secondary compilations (Megalithic Portal, CANMORE). Neolithic settlement with pits, lithics, and pottery reported. ",,,,,,,,,,,,,
+,"No. 75. Recorded in secondary compilations (Megalithic Portal, local heritage inventories). Known as a “pierced stone” type megalith, generally attributed to the Neolithic horizon.",,,,,,,,,,,,,
+,"No. 77. Excavated in the 1990s by J. Ramos et al., revealing chamber structure, engravings, and grave goods. While local reports exist (in Spanish), present dataset references secondary compilations. ",,,,,,,,,,,,,
+,"No. 81. Excavated in the 20th century, with reports in Spanish regional archaeology journals. Present dataset entry relies on secondary compilations (SC), though Spanish-language excavation reports exist.",,,,,,,,,,,,,
+,"No. 85. A representative example of the western Pyrenean dolmen tradition, likely dated to the late 6th millennium BCE. Detailed local excavation reports exist in Spanish.",,,,,,,,,,,,,
+,No. 90. Part of the broader Neolithic monument landscape in southern Scandinavia. Swedish-language archaeological documentation exists. ,,,,,,,,,,,,,
+,"No. 96. A significant Neolithic settlement. Excavations began in 1993 and continue seasonally, with both Turkish-language excavation reports and English-language summaries available. ",,,,,,,,,,,,,
+,"No.100. A substantial necropolis of roughly 40 dolmen structures—ruins still visible—forming part of the broader Crimean megalithic tradition, likely dating to the 5th millennium BCE ",,,,,,,,,,,,,
+,"No.101. Wasylikowa, K. et al. Exploitation of wild plants by the early Neolithic hunter-gatherers of the Western Desert, Egypt: Nabta Playa as a case study. Veg. Hist. Archaeobot. 4, 1–17 (1995).",,,,,,,,,,,,,
+,"No.104. Kim, B-C. A Social Bioarchaeology of the Site of Gadeokdo, Busan: an experimental approach to the integrated understanding on the Neolithic mortuary practice. Korea Journal of Neolithic Studies 34, 35–64 (2017).",,,,,,,,,,,,,
+,"No. 106. Exceptionally well-preserved early Neolithic settlement. Excavations revealed floor plans of four longhouses, clay-extraction pits later used for waste deposition, pottery shards, stone tools, and utensils.",,,,,,,,,,,,,
