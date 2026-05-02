@@ -68,7 +68,7 @@ Minor numerical differences may occur depending on system precision
 Overall patterns remain unchanged
 Implementation
 
-## The full computational workflow is implemented in:
+The full computational workflow is implemented in:
 
 nmcc_ripleys_k_analysis.py
 
