@@ -40,7 +40,7 @@ pandas
 numpy
 scipy
 
-Install if needed:
+##Install if needed:
 Bashpip install pandas numpy scipy
 Data Description
 The dataset contains 94 spatially validated archaeological sites with:
@@ -63,5 +63,5 @@ Running the script reproduces the reported results
 Minor numerical differences may occur due to system precision
 Overall statistical patterns remain unchanged
 
-Additional Information
+## Information
 
