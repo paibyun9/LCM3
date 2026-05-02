@@ -64,4 +64,4 @@ Minor numerical differences may occur due to system precision
 Overall statistical patterns remain unchanged
 
 Additional Information
-A detailed computational description is provided in Appendix 2 of the study.
+
