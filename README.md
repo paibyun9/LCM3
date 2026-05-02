@@ -1,68 +1,67 @@
-LCM3 – NMCC Spatial Analysis Dataset
+# LCM3 – NMCC Spatial Analysis Dataset
 
-This repository provides the dataset and code used for spatial clustering analysis.
+## Overview
+This repository provides the dataset and code used to reproduce the spatial clustering analysis presented in the study.
 
-Contents
-data.csv
-Dataset of 94 spatially validated WENN sites
-nmcc_ripleys_k_analysis.py
-Python script for spatial clustering analysis
-Reproducibility (Simple Guide)
+## Repository Structure
 
-You can reproduce the analysis in a few simple steps:
+* data.csv  
+  Dataset of 94 WENN archaeological sites
 
-Step 1 — Download files
+* nmcc_ripleys_k_analysis.py  
+  Python script used for spatial analysis
 
-Download the following files from this repository:
+## Quick Start (Reproducibility)
 
-data.csv
-nmcc_ripleys_k_analysis.py
-Step 2 — Place files
+1. Download files  
+   Download both files:
 
-Put both files in the same location (for example, your Desktop)
+   * data.csv
 
-Step 3 — Run
+   * nmcc_ripleys_k_analysis.py
 
-Open Terminal and run:
+2. Place files together  
+   Put both files in the same folder  
+   (e.g., Desktop)
 
-python3 nmcc_ripleys_k_analysis.py
-Step 4 — Done
+3. Run the script  
+   Open Terminal and run:
 
-The script will print the results directly in the terminal.
+   ```bash
+   python3 nmcc_ripleys_k_analysis.py
+
+Output
+Results will be printed directly in the terminal.
 
 Requirements
+
 Python 3
 pandas
 numpy
 scipy
 
-If needed, install packages using:
-
-pip install pandas numpy scipy
+Install if needed:
+Bashpip install pandas numpy scipy
 Data Description
-
-The dataset (data.csv) contains 94 archaeological sites with:
+The dataset contains 94 spatially validated archaeological sites with:
 
 Geographic coordinates
 Classification into two groups (K-A and K-B)
 
-Only valid and complete records were included in the analysis.
-
-Method Overview
-
+Only complete and valid records were included.
+What the Script Does
 The script performs:
 
 Distance calculation between sites
 Spatial clustering analysis
-Monte Carlo simulation (999 runs) for statistical evaluation
+Monte Carlo simulation (999 iterations)
 
-All parameters are fixed to ensure reproducible results.
+All parameters are fixed for reproducibility.
+Reproducibility Notes
 
-Notes
-Results correspond to those reported in the study
+Running the script reproduces the reported results
 Minor numerical differences may occur due to system precision
-Overall patterns and statistical outcomes remain consistent
-Reference
+Overall statistical patterns remain unchanged
 
-Detailed computational workflow is described in
-Appendix 2 of the study
+Additional Information
+A detailed computational description is provided in Appendix 2 of the study.
